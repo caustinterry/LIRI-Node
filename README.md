@@ -25,9 +25,9 @@ Using the command line start with `node liri <arguments>`
 The app can be seen here ` https://github.com/caustinterry/LIRI-Node`
 
 ## Technologies Used
-NodeJS
-Javascript
-npm: utilizing fs, spotifiy, and axios
+*NodeJS
+*Javascript
+*npm: utilizing fs, spotifiy, and axios
 
 ## Development
 Developed by Austin Terry
