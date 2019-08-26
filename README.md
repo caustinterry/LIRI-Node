@@ -20,7 +20,7 @@ Using the command line start with `node liri <arguments>`
   
 
 ## Screenshot of the project in use
-![Liri Bot](screenshot/LIRI-bot.gif "Liri Bot")
+![Liri Bot](assets/screenshot/LIRI-bot.gif "Liri Bot")
 
 
 ## Contain a link to a deployed version of the app
